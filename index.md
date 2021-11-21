@@ -1,4 +1,4 @@
-# <i>Portulaca hatschbachii</i>
+## <i>Portulaca hatschbachii</i>
 
 Results from the Redundancy Analysis (RDA), based on 154 AFLP fragments potentially under diversifying selection, showing the effects of the environmental variables that shape the genetic structure of <i>Portulaca hatschbachii</i> populations.
 
